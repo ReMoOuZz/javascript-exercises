@@ -5,5 +5,6 @@ const getTheTitles = function(book) {
     return titleArray
 };
 
+
 // Do not edit below this line
 module.exports = getTheTitles;
